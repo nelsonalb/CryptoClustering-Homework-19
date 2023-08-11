@@ -1,23 +1,5 @@
 --Module 19 Challenge--
 
-In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
--Before You Begin
-
-Create a new repository for this project called CryptoClustering. Do not add this homework to an existing repository.
-
-Clone the new repository to your computer.
-
-Push your changes to GitHub.
-
--Instructions
-
-1. Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
-
-2. Load the crypto_market_data.csv into a DataFrame.
-
-3. Get the summary statistics and plot the data to see what the data looks like before proceeding.
-
 -Prepare the Data
 
 Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
